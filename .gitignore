@@ -15,6 +15,7 @@ smart_contract/package-lock.json
 dist
 dist-ssr
 *.local
+smart_contract/.env
 
 
 
